@@ -56,7 +56,7 @@ Focus      : AI Solutions + Test Automation
 
 <br/>
 
-![Snake animation](https://github.com/lakshanalaksh25/lakshanalaksh25/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshanalaksh25&bg_color=0d1117&color=00f0ff&line=bf91f3&point=ffffff&area=true&hide_border=true&radius=8" alt="Contribution Graph" width="100%"/>
 
 </td>
 </tr>
@@ -123,7 +123,16 @@ Focus      : AI Solutions + Test Automation
 ## 🧱 &nbsp;3D Contribution Architecture
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshanalaksh25&bg_color=0d1117&color=00f0ff&line=00f0ff&point=bf91f3&area=true&area_color=bf91f330&hide_border=true&custom_title=Lakshana's%20Contribution%20Timeline&radius=16" alt="3D Contribution Graph" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshanalaksh25&theme=2077" alt="Profile Summary" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshanalaksh25&theme=2077" alt="Repos Per Language" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshanalaksh25&theme=2077" alt="Most Commit Language" width="49%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
